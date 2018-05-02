@@ -2,7 +2,10 @@
 
 ## 待看
 [全局对象](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
+
 [事件循环event-loops](https://html.spec.whatwg.org/multipage/webappapis.html#event-loops)
+
+[Node探秘之事件循环（2）--setTimeout/setImmediate/process.nextTick的差别](https://www.jianshu.com/p/837b584e1bdd?utm_campaign=maleskine&utm_content=note&utm_medium=reader_share&utm_source=weibo)
 ## 4月
 [模板解析](https://github.com/xucz/jst-helloworld/blob/master/fis-conf.js)
 
