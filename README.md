@@ -2,7 +2,7 @@
 
 ## 待看
 [全局对象](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
-
+[事件循环event-loops](https://html.spec.whatwg.org/multipage/webappapis.html#event-loops)
 ## 4月
 [模板解析](https://github.com/xucz/jst-helloworld/blob/master/fis-conf.js)
 
