@@ -9,11 +9,19 @@
 [js模块化编程之彻底弄懂CommonJS和AMD/CMD！](https://www.cnblogs.com/chenguangliang/p/5856701.html)
 
 [前端模块化（CommonJs,AMD和CMD）](https://www.jianshu.com/p/d67bc79976e6)
+
 [MVC、MVP、MVVM](https://github.com/livoras/blog/issues/11)
 
+[Promise implementing](https://www.promisejs.org/implementing/)
+
+[Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/?utm_source=html5weekly&utm_medium=email)
 
 
 
 ## 以前
 
 [Web technology for developers](https://developer.mozilla.org/en-US/docs/Web)
+
+[ECMASCRIPT 规格](https://www.ecma-international.org/ecma-262/6.0/#sec-proxy-object-internal-methods-and-internal-slots-getprototypeof)
+
+[jQuery.event 事件机制 ](http://www.kuitao8.com/20140305/2088.shtml)
