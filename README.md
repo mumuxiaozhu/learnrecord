@@ -20,6 +20,8 @@ underscore,loadsh
 [nginx实现反向代理及其跨域应用](http://www.vuln.cn/2879)
 [从HTML5与PromiseA+规范来看事件循环](https://github.com/Aaaaaaaty/blog/issues/13)
 
+[git和svn的详细对比](https://www.cnblogs.com/dazhidacheng/p/7478438.html)
+
 ## 5月
 
 [前端构建工具发展及其比较](https://github.com/dunizb/blog/issues/27)
