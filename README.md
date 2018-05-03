@@ -34,6 +34,7 @@ underscore,loadsh
 [NodeJs之pm2](https://www.cnblogs.com/zqzjs/p/6210645.html)
 [前端常见跨域解决方案（全）](https://segmentfault.com/a/1190000011145364)
 
+[kTemplate模板](https://github.com/wulijian/ktemplate/blob/master/lib/kTemplate.js)
 [前端模板解析](https://github.com/xucz/jst-helloworld)
 [如何快速成长为技术大牛？阿里资深技术专家的总结亮了](https://github.com/qmsggg/BlogCollect/issues/170)
 
