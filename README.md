@@ -60,6 +60,9 @@ underscore,loadsh
 
 ## 源码分析
 [依赖收集](https://github.com/answershuto/learnVue/blob/master/docs/%E4%BE%9D%E8%B5%96%E6%94%B6%E9%9B%86.MarkDown)
+
+[剖析 Vue.js 内部运行机制](https://juejin.im/book/5a36661851882538e2259c0f/section/5a3bb1866fb9a04515440f4e)
+[vue源码分析 -- 基于 2.2.6版本](https://github.com/liutao/vue2.0-source)
 [promise原理整理](http://www.cnblogs.com/xiaozhuyuan/p/8427599.html)
 ## 路由
 
