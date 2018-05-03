@@ -20,6 +20,7 @@
 [从HTML5与PromiseA+规范来看事件循环](https://github.com/Aaaaaaaty/blog/issues/13)
 [面试分享：2018阿里巴巴前端面试总结(题目+答案)](http://web.jobbole.com/94371/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
 ## 5月
+
 [前端构建工具发展及其比较](https://github.com/dunizb/blog/issues/27)
 
 [日常开发中，如何给团队留下财富？](https://github.com/qqiabc521/blog/issues/1)
@@ -32,6 +33,7 @@
 [NodeJs之pm2](https://www.cnblogs.com/zqzjs/p/6210645.html)
 [前端常见跨域解决方案（全）](https://segmentfault.com/a/1190000011145364)
 
+[前端模板解析](https://github.com/xucz/jst-helloworld)
 [如何快速成长为技术大牛？阿里资深技术专家的总结亮了](https://github.com/qmsggg/BlogCollect/issues/170)
 
 [使用nginx反向代理解决web api调用时产生的跨域问题 ](https://www.imooc.com/article/12591)
