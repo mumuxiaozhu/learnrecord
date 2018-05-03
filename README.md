@@ -11,14 +11,17 @@
 [nginx实现反向代理及其跨域应用](http://www.vuln.cn/2879)
 ## 5月
 [日常开发中，如何给团队留下财富？](https://github.com/qqiabc521/blog/issues/1)
+
 [从功能级到工程级代码的思考](https://github.com/ZyJoey/blog/issues/3) pdf转换和预览bat，规范，可配置。
 
 [跨域解决方案推荐](https://github.com/sunmaobin/sunmaobin.github.io/issues/50) pm2进程守护
+
 [你所不知道的pm2](https://blog.csdn.net/uikoo9/article/details/79018750)
 [NodeJs之pm2](https://www.cnblogs.com/zqzjs/p/6210645.html)
 [前端常见跨域解决方案（全）](https://segmentfault.com/a/1190000011145364)
 
 [如何快速成长为技术大牛？阿里资深技术专家的总结亮了](https://github.com/qmsggg/BlogCollect/issues/170)
+
 [使用nginx反向代理解决web api调用时产生的跨域问题 ](https://www.imooc.com/article/12591)
 [Nginx中文文档](http://www.nginx.cn/doc/)
 
