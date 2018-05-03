@@ -7,6 +7,7 @@
 组件化
 前端整个过程：规范、开发、测试、部署
 sourcemap 调试
+underscore,loadsh
 
 ## 待看
 [全局对象](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
@@ -64,3 +65,6 @@ sourcemap 调试
 [ECMASCRIPT 规格](https://www.ecma-international.org/ecma-262/6.0/#sec-proxy-object-internal-methods-and-internal-slots-getprototypeof)
 
 [jQuery.event 事件机制 ](http://www.kuitao8.com/20140305/2088.shtml)
+
+## 面试题
+[腾讯前端面试题-瀑布图+去抖](https://blog.csdn.net/shuidinaozhongyan/article/details/70476165)
