@@ -6,7 +6,7 @@
 路由
 组件化
 前端整个过程：规范、开发、测试、部署
-
+sourcemap 调试
 
 ## 待看
 [全局对象](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
