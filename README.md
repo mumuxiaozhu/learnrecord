@@ -60,7 +60,7 @@ underscore,loadsh
 
 ## 源码分析
 [依赖收集](https://github.com/answershuto/learnVue/blob/master/docs/%E4%BE%9D%E8%B5%96%E6%94%B6%E9%9B%86.MarkDown)
-
+[promise原理整理](http://www.cnblogs.com/xiaozhuyuan/p/8427599.html)
 ## 路由
 
 [你了解前端路由吗](https://juejin.im/post/5ac61da66fb9a028c71eae1b)
