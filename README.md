@@ -77,6 +77,7 @@ underscore,loadsh
 [ECMASCRIPT 规格](https://www.ecma-international.org/ecma-262/6.0/#sec-proxy-object-internal-methods-and-internal-slots-getprototypeof)
 
 [jQuery.event 事件机制 ](http://www.kuitao8.com/20140305/2088.shtml)
+[jquery.ready可以在文档加载后尽快执行对文档的操作](http://www.cnblogs.com/xiaozhuyuan/p/7498939.html)
 
 ## 面试题
 [腾讯前端面试题-瀑布图+去抖](https://blog.csdn.net/shuidinaozhongyan/article/details/70476165)
@@ -84,3 +85,5 @@ underscore,loadsh
 [面试分享：2018阿里巴巴前端面试总结(题目+答案)](http://web.jobbole.com/94371/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
 
 [leetcode](https://leetcode-cn.com/tag/dynamic-programming/)
+
+[IT职场经纬 |阿里web前端面试考题，](https://blog.csdn.net/kuwawayu/article/details/70418587)
