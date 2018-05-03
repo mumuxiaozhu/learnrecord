@@ -19,7 +19,7 @@ underscore,loadsh
 [Nginx安装及配置详解](https://www.cnblogs.com/zhouxinfei/p/7862285.html)
 [nginx实现反向代理及其跨域应用](http://www.vuln.cn/2879)
 [从HTML5与PromiseA+规范来看事件循环](https://github.com/Aaaaaaaty/blog/issues/13)
-[面试分享：2018阿里巴巴前端面试总结(题目+答案)](http://web.jobbole.com/94371/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
+
 ## 5月
 
 [前端构建工具发展及其比较](https://github.com/dunizb/blog/issues/27)
@@ -34,8 +34,9 @@ underscore,loadsh
 [NodeJs之pm2](https://www.cnblogs.com/zqzjs/p/6210645.html)
 [前端常见跨域解决方案（全）](https://segmentfault.com/a/1190000011145364)
 
-[kTemplate模板](https://github.com/wulijian/ktemplate/blob/master/lib/kTemplate.js)
-[前端模板解析](https://github.com/xucz/jst-helloworld)
+[前端图片预览方式](https://segmentfault.com/a/1190000010639256)
+[请你实现一个深克隆](https://juejin.im/post/5abb55ee6fb9a028e33b7e0a)
+
 [如何快速成长为技术大牛？阿里资深技术专家的总结亮了](https://github.com/qmsggg/BlogCollect/issues/170)
 
 [使用nginx反向代理解决web api调用时产生的跨域问题 ](https://www.imooc.com/article/12591)
@@ -45,7 +46,7 @@ underscore,loadsh
 [windows下nginx](https://www.cnblogs.com/Chiler/p/8027167.html)
 [反向代理](https://www.cnblogs.com/zhouxinfei/p/7862285.html)
 ## 4月
-[模板解析](https://github.com/xucz/jst-helloworld/blob/master/fis-conf.js)
+
 
 [js模块化编程之彻底弄懂CommonJS和AMD/CMD！](https://www.cnblogs.com/chenguangliang/p/5856701.html)
 
@@ -57,7 +58,17 @@ underscore,loadsh
 
 [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/?utm_source=html5weekly&utm_medium=email)
 
+## 源码分析
+[依赖收集](https://github.com/answershuto/learnVue/blob/master/docs/%E4%BE%9D%E8%B5%96%E6%94%B6%E9%9B%86.MarkDown)
 
+## 路由
+
+[你了解前端路由吗](https://juejin.im/post/5ac61da66fb9a028c71eae1b)
+
+## 前端模板解析
+[模板解析](https://github.com/xucz/jst-helloworld/blob/master/fis-conf.js)
+[kTemplate模板](https://github.com/wulijian/ktemplate/blob/master/lib/kTemplate.js)
+[前端模板解析](https://github.com/xucz/jst-helloworld)
 
 ## 以前
 
@@ -69,3 +80,5 @@ underscore,loadsh
 
 ## 面试题
 [腾讯前端面试题-瀑布图+去抖](https://blog.csdn.net/shuidinaozhongyan/article/details/70476165)
+
+[面试分享：2018阿里巴巴前端面试总结(题目+答案)](http://web.jobbole.com/94371/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
