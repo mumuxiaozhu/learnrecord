@@ -1,4 +1,12 @@
 # learnrecord 阅读记录
+## 待学
+前端工程化
+前端测试，单元测试
+前端模块化
+路由
+组件化
+前端整个过程：规范、开发、测试、部署
+
 
 ## 待看
 [全局对象](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
@@ -9,7 +17,11 @@
 
 [Nginx安装及配置详解](https://www.cnblogs.com/zhouxinfei/p/7862285.html)
 [nginx实现反向代理及其跨域应用](http://www.vuln.cn/2879)
+[从HTML5与PromiseA+规范来看事件循环](https://github.com/Aaaaaaaty/blog/issues/13)
+[面试分享：2018阿里巴巴前端面试总结(题目+答案)](http://web.jobbole.com/94371/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
 ## 5月
+[前端构建工具发展及其比较](https://github.com/dunizb/blog/issues/27)
+
 [日常开发中，如何给团队留下财富？](https://github.com/qqiabc521/blog/issues/1)
 
 [从功能级到工程级代码的思考](https://github.com/ZyJoey/blog/issues/3) pdf转换和预览bat，规范，可配置。
