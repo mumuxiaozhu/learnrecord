@@ -24,6 +24,8 @@ underscore,loadsh
 
 ## 5月
 
+[分享 Web 中文字体应用指南](https://ruby-china.org/topics/14005)   [默认样式](https://github.com/sofish/typo.css/blob/master/typo.css)   [字体话题中说的 fallback ](https://www.zhihu.com/question/20127442/answer/14064802)
+
 [前端构建工具发展及其比较](https://github.com/dunizb/blog/issues/27)
 
 [日常开发中，如何给团队留下财富？](https://github.com/qqiabc521/blog/issues/1)
