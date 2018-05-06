@@ -24,6 +24,10 @@ underscore,loadsh
 
 ## 5月
 
+[阿里云前端周刊 ](https://zhuanlan.zhihu.com/p/31430062)
+
+[阿里云中台前端/全栈团队专栏](https://zhuanlan.zhihu.com/aliyun)
+
 字体[分享 Web 中文字体应用指南](https://ruby-china.org/topics/14005)   [默认样式](https://github.com/sofish/typo.css/blob/master/typo.css)   [字体话题中说的 fallback ](https://www.zhihu.com/question/20127442/answer/14064802)[字体 fallback](https://www.zhihu.com/question/21847989)
 
 [前端构建工具发展及其比较](https://github.com/dunizb/blog/issues/27)
@@ -88,6 +92,7 @@ underscore,loadsh
 [jquery.ready可以在文档加载后尽快执行对文档的操作](http://www.cnblogs.com/xiaozhuyuan/p/7498939.html)
 
 ## 面试题
+[2018校招最新前端面经：阿里4面+网易4面+腾讯5面](https://zhuanlan.zhihu.com/p/29140443)
 [腾讯前端面试题-瀑布图+去抖](https://blog.csdn.net/shuidinaozhongyan/article/details/70476165)
 
 [面试分享：2018阿里巴巴前端面试总结(题目+答案)](http://web.jobbole.com/94371/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
