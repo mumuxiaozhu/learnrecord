@@ -25,6 +25,8 @@ underscore,loadsh
 ## 5月
 
 [requireJS原理解析](https://blog.csdn.net/cde7070/article/details/65935888)
+[理解requireJS-实现一个简单的模块加载器](https://www.cnblogs.com/yexiaochai/p/3961291.html)
+
 
 [HTTP,HTTP2.0,SPDY,HTTPS你应该知道的一些事](http://www.alloyteam.com/2016/07/httphttp2-0spdyhttps-reading-this-is-enough/)
 [SSL/TLS协议运行机制的概述](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
