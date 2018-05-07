@@ -21,8 +21,15 @@ underscore,loadsh
 [从HTML5与PromiseA+规范来看事件循环](https://github.com/Aaaaaaaty/blog/issues/13)
 
 [git和svn的详细对比](https://www.cnblogs.com/dazhidacheng/p/7478438.html)
-
+[Open Source NGINX 1.9.5 Released with HTTP/2 Support](https://www.nginx.com/blog/nginx-1-9-5/)
 ## 5月
+[HTTP,HTTP2.0,SPDY,HTTPS你应该知道的一些事](http://www.alloyteam.com/2016/07/httphttp2-0spdyhttps-reading-this-is-enough/)
+[SSL/TLS协议运行机制的概述](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
+[https改造](http://velocity.oreilly.com.cn/2015/ppts/lizhenyu.pdf)
+[HTTP2.0的奇妙日常](http://www.alloyteam.com/2015/03/http2-0-di-qi-miao-ri-chang/)
+
+
+
 [浏览器内核--浏览器渲染(renderer)进程](https://github.com/TokenYangForever/NewProject/issues/34)
 [现代前端技术解析 ](https://github.com/pengliheng/pengliheng.github.io/issues/28)
 [Javascript 单线程模型 Event Loop 机制](https://github.com/pengliheng/pengliheng.github.io/issues/28)
