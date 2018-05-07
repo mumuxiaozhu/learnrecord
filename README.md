@@ -27,8 +27,8 @@ underscore,loadsh
 [SSL/TLS协议运行机制的概述](http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html)
 [https改造](http://velocity.oreilly.com.cn/2015/ppts/lizhenyu.pdf)
 [HTTP2.0的奇妙日常](http://www.alloyteam.com/2015/03/http2-0-di-qi-miao-ri-chang/)
-
-
+[第十一期《http1.0、http1.1、http2、https》](https://github.com/mynane/web-problem/issues/11)
+[Http2.0和Https 笔记](https://github.com/ToPeas/blog/issues/3)
 
 [浏览器内核--浏览器渲染(renderer)进程](https://github.com/TokenYangForever/NewProject/issues/34)
 [现代前端技术解析 ](https://github.com/pengliheng/pengliheng.github.io/issues/28)
