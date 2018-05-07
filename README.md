@@ -23,6 +23,11 @@ underscore,loadsh
 [git和svn的详细对比](https://www.cnblogs.com/dazhidacheng/p/7478438.html)
 
 ## 5月
+[浏览器内核--浏览器渲染(renderer)进程](https://github.com/TokenYangForever/NewProject/issues/34)
+[现代前端技术解析 ](https://github.com/pengliheng/pengliheng.github.io/issues/28)
+[Javascript 单线程模型 Event Loop 机制](https://github.com/pengliheng/pengliheng.github.io/issues/28)
+
+
 [postmessage](https://segmentfault.com/a/1190000012264815)
 [阿里云前端周刊 ](https://zhuanlan.zhihu.com/p/31430062)
 
