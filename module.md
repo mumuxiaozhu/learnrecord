@@ -1,4 +1,4 @@
-##模块化
+## 模块化
 模块就是实现特定功能的一组方法。
 
 1.简单模块化形式
@@ -18,7 +18,7 @@
 加载模块有两种异步加载和同步加载，或动态加载和静态加载。
 
 AMD，CMD，closure，CommonJS，ES6
-commonjs
+## commonjs
 nodejs模块系统参照commonjs，它是服务端js编程。服务端require加载js是同步的，而浏览器环境加载js不适合同步。
 所有的模块都存放在本地硬盘，可以同步加载完成，等待时间就是硬盘的读取时间。但是，对于浏览器，这却是一个大问题，
 因为模块都放在服务器端，等待时间取决于网速的快慢，可能要等很长时间，浏览器处于"假死"状态。
@@ -118,7 +118,7 @@ webpack:
 
 commonjs,webpack,requirejs
 
-AMD
+## AMD
 AMD是"Asynchronous Module Definition"的缩写，意思就是"异步模块定义"。
 它采用异步方式加载模块，模块的加载不影响它后面语句的运行。所有依赖这个模块的语句，
 都定义在一个回调函数中，等到加载完成之后，这个回调函数才会运行。
@@ -213,6 +213,17 @@ define(function(require, exports, module) {
 https://www.cnblogs.com/terrylin/p/3347073.html
 
 4、如何解决重复加载的问题（.loaded=true）
+
+## CMD
+// CMD
+define(function(require, exports, module) {   
+var a = require('./a')   a.doSomething()   
+// 此处略去 100 行   var b = require('./b') 
+// 依赖可以就近书写   b.doSomething()   
+// ...
+})
+
+https://github.com/seajs/seajs/issues/242
 
 
 ES6
