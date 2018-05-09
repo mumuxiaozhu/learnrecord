@@ -23,7 +23,7 @@ underscore,loadsh
 [git和svn的详细对比](https://www.cnblogs.com/dazhidacheng/p/7478438.html)
 [Open Source NGINX 1.9.5 Released with HTTP/2 Support](https://www.nginx.com/blog/nginx-1-9-5/)
 ## 5月
-
+[ConcurrentHashMap原理分析](https://my.oschina.net/hosee/blog/639352)
 [requireJS原理解析](https://blog.csdn.net/cde7070/article/details/65935888)
 [理解requireJS-实现一个简单的模块加载器](https://www.cnblogs.com/yexiaochai/p/3961291.html)
 
