@@ -8,11 +8,13 @@
 前端整个过程：规范、开发、测试、部署
 sourcemap 调试
 underscore,loadsh
-
+[]
 
 jsp springmvc流程 jsp怎么加载解析，jsp标签
 
 ## 待看
+[芋道源码 —— 纯源码解析博客](http://www.iocoder.cn/categories/Sharding-JDBC/?cnblog)
+
 [全局对象](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
 
 [事件循环event-loops](https://html.spec.whatwg.org/multipage/webappapis.html#event-loops)
