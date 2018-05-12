@@ -17,6 +17,8 @@
 
 9.[zellwk_es6教程](https://zellwk.com/blog/es6/)
 
-10.* [learnjavascript.today](https://learnjavascript.today/)
+10.[learnjavascript.today](https://learnjavascript.today/)
+
+11. * [ponyfoo es6 indepth](https://ponyfoo.com/articles/es6-promises-in-depth)
 
 
