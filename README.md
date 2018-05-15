@@ -34,6 +34,7 @@ jsp springmvc流程 jsp怎么加载解析，jsp标签
 ## 5月
 
 [](https://github.com/JohnBown/Yuanchao-Filed/issues/9)
+[javascript模块化之CommonJS、AMD、CMD、UMD、ES6](https://blog.csdn.net/Real_Bird/article/details/54869066)
 [ConcurrentHashMap原理分析](https://my.oschina.net/hosee/blog/639352)
 [requireJS原理解析](https://blog.csdn.net/cde7070/article/details/65935888)
 [理解requireJS-实现一个简单的模块加载器](https://www.cnblogs.com/yexiaochai/p/3961291.html)
