@@ -33,7 +33,9 @@ jsp springmvc流程 jsp怎么加载解析，jsp标签
 [http2系列](https://imququ.com/post/series.html)
 ## 5月
 
-[](https://github.com/JohnBown/Yuanchao-Filed/issues/9)
+[前端leader找我谈心：我是如何从刚毕业的前端菜鸟一步步成长为前端架构师的？](https://www.cnblogs.com/running-runtu/p/9038725.html)
+[等等](https://github.com/JohnBown/Yuanchao-Filed/issues/9)
+
 [javascript模块化之CommonJS、AMD、CMD、UMD、ES6](https://blog.csdn.net/Real_Bird/article/details/54869066)
 [ConcurrentHashMap原理分析](https://my.oschina.net/hosee/blog/639352)
 [requireJS原理解析](https://blog.csdn.net/cde7070/article/details/65935888)
