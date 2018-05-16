@@ -7,7 +7,7 @@
 组件化
 前端整个过程：规范、开发、测试、部署
 sourcemap 调试
-underscore,loadsh
+[underscore](https://github.com/jashkenas/underscore),loadsh
 []
 
 jsp springmvc流程 jsp怎么加载解析，jsp标签
