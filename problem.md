@@ -12,3 +12,12 @@
  5.博客园登录人机验证
 6.openID和OAuth
 [OAuth和OpenID的区别](https://github.com/AisinGioro/blog/issues/2)
+
+7.AOP
+是拦截处理？
+[js aop](https://github.com/pengkobe/reading-notes/issues/285)
+
+8.服务端搭建
+[node.js笔记3](https://github.com/499689317/notes/issues/11)
+
+9.
