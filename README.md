@@ -127,15 +127,6 @@ jsp springmvc流程 jsp怎么加载解析，jsp标签
 [jQuery.event 事件机制 ](http://www.kuitao8.com/20140305/2088.shtml)
 [jquery.ready可以在文档加载后尽快执行对文档的操作](http://www.cnblogs.com/xiaozhuyuan/p/7498939.html)
 
-## 面试题
-[2018校招最新前端面经：阿里4面+网易4面+腾讯5面](https://zhuanlan.zhihu.com/p/29140443)
-[腾讯前端面试题-瀑布图+去抖](https://blog.csdn.net/shuidinaozhongyan/article/details/70476165)
-
-[面试分享：2018阿里巴巴前端面试总结(题目+答案)](http://web.jobbole.com/94371/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
-
-[leetcode](https://leetcode-cn.com/tag/dynamic-programming/)
-
-[IT职场经纬 |阿里web前端面试考题，](https://blog.csdn.net/kuwawayu/article/details/70418587)
 
 ## 博客-大牛系列
 (bubkoo)(http://bubkoo.com/tags/ecmascript/)
