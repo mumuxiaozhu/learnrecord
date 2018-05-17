@@ -34,6 +34,12 @@ jsp springmvc流程 jsp怎么加载解析，jsp标签
 [我虽不是人类：且看我如何攻破Google的ReCAPTCHA](https://blog.csdn.net/xiaof_90/article/details/51594941)
 [滑块验证码（滑动验证码）相比图形验证码，破解难度如何？](https://www.zhihu.com/question/32209043)
 ## 5月
+[webpack-dev-server 设置反向代理解决跨域问题](https://www.cnblogs.com/liuchuanfeng/p/6802598.html)
+webpack-dev-server使用的是http-proxy-middleware
+[Webpack + Tomcat + Nginx/Apache实现前后端开发分离](https://blog.csdn.net/yin138/article/details/54865576)
+[node-http-proxy](https://github.com/nodejitsu/node-http-proxy)
+[基于webpack的前后端分离开发环境实战](https://segmentfault.com/a/1190000009266900)
+
 [解析HTTPS-图解http](https://github.com/StevenXN/Blog/issues/3)
 
 [前端leader找我谈心：我是如何从刚毕业的前端菜鸟一步步成长为前端架构师的？](https://www.cnblogs.com/running-runtu/p/9038725.html)
