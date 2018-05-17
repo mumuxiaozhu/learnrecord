@@ -4,3 +4,8 @@ Object.prototype.toString.call(null)
 "[object Null]"
 Object.prototype.toString.call(undefined)
 "[object Undefined]"
+
+Object.prototype.toString.call(0)
+"[object Number]"
+Object.prototype.toString.call("ddd")
+"[object String]"
