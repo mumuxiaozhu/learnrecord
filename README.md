@@ -32,9 +32,12 @@ jsp springmvc流程 jsp怎么加载解析，jsp标签
 [ES6-Jason Orendorff](https://hacks.mozilla.org/author/jorendorffmozillacom/)
 [http2系列](https://imququ.com/post/series.html)
 ## 5月
+[解析HTTPS-图解http](https://github.com/StevenXN/Blog/issues/3)
 
 [前端leader找我谈心：我是如何从刚毕业的前端菜鸟一步步成长为前端架构师的？](https://www.cnblogs.com/running-runtu/p/9038725.html)
 [等等](https://github.com/JohnBown/Yuanchao-Filed/issues/9)
+
+
 
 [javascript模块化之CommonJS、AMD、CMD、UMD、ES6](https://blog.csdn.net/Real_Bird/article/details/54869066)
 [ConcurrentHashMap原理分析](https://my.oschina.net/hosee/blog/639352)
@@ -86,6 +89,8 @@ jsp springmvc流程 jsp怎么加载解析，jsp标签
 [反向代理](https://www.cnblogs.com/zhouxinfei/p/7862285.html)
 ## 4月
 
+[session机制和登录机制-单点登录](https://github.com/UNDERCOVERj/tech-blog/issues/3)
+[Java Web Token认证机制](https://github.com/coderzhw/blog/issues/2)
 
 [js模块化编程之彻底弄懂CommonJS和AMD/CMD！](https://www.cnblogs.com/chenguangliang/p/5856701.html)
 
