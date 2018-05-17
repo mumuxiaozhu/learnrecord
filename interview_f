@@ -1,5 +1,6 @@
 
 1.判别null 和 undefined
+Object的原生toString 返回[object  NativeConstructorName]格式的字符串。每个类在内部都有一个[[class]]属性，指定前面的构造函数名。
 Object.prototype.toString.call(null)
 "[object Null]"
 Object.prototype.toString.call(undefined)
@@ -9,3 +10,5 @@ Object.prototype.toString.call(0)
 "[object Number]"
 Object.prototype.toString.call("ddd")
 "[object String]"
+
+
