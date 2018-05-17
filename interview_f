@@ -1,0 +1,6 @@
+
+1.判别null 和 undefined
+Object.prototype.toString.call(null)
+"[object Null]"
+Object.prototype.toString.call(undefined)
+"[object Undefined]"
