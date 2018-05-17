@@ -31,6 +31,8 @@ jsp springmvc流程 jsp怎么加载解析，jsp标签
 [ECMA6 ](http://dmitrysoshnikov.com/category/ecmascript/)
 [ES6-Jason Orendorff](https://hacks.mozilla.org/author/jorendorffmozillacom/)
 [http2系列](https://imququ.com/post/series.html)
+[我虽不是人类：且看我如何攻破Google的ReCAPTCHA](https://blog.csdn.net/xiaof_90/article/details/51594941)
+[滑块验证码（滑动验证码）相比图形验证码，破解难度如何？](https://www.zhihu.com/question/32209043)
 ## 5月
 [解析HTTPS-图解http](https://github.com/StevenXN/Blog/issues/3)
 
