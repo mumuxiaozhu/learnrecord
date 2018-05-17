@@ -10,3 +10,5 @@
  如果默认事件有阻止冒泡是否影响jquery。
  
  5.博客园登录人机验证
+6.openID和OAuth
+[OAuth和OpenID的区别](https://github.com/AisinGioro/blog/issues/2)
