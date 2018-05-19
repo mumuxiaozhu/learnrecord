@@ -7,3 +7,6 @@
 }
 ```
 2.[understanding-sizing-css-layout -grid](https://www.smashingmagazine.com/2018/01/understanding-sizing-css-layout/)
+
+3.动画函数
+https://easings.net/zh-cn
