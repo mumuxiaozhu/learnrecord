@@ -2,35 +2,56 @@
 待整理。。。。。
 1
 [smashing杂志](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
+
 搜罗国外优秀设计师、前端开发工程师、互联网作家：http://www.ilikecss.com/author/
+
 国外优秀设计师的博客有哪些？：https://www.zhihu.com/question/19570317
+
 你见过的最棒的个人博客界面是什么样的？https://www.zhihu.com/question/29755481
 
 
 
 交互设计方向
 http://wireframes.linowski.ca/#主要是原型设计
+
 http://www.uxmatters.com/index.php 
+
 http://patternry.com/#关于设计模式的
+
 http://www.uxbooth.com/ 
+
 http://www.uie.com/#偏重可用性方面
+
 http://www.nngroup.com/# Nielsen Norman Group
+
 http://www.paulhibbitts.com/index.html
+
 一个UEer的个人博客
 http://productblog.37signals.com/ 37singnals 
 
 主要列一些比较“全能”的设计师：
 Soh Tanaka： http://www.sohtanaka.com/  日裔美籍设计师，网页设计、交互设计、前端方向。其页面由html5创建。
+
 Jeff Starr：http://perishablepress.com/  设计师＋开发者，digwp作者之一，wordpress主题／插件设计开发大牛。
+
 Cameron Moll：http://www.cameronmoll.com/  “精通CSS”作者之一。
+
 Dan Cederholm：http://simplebits.com/  “无懈可击的css”作者，http://dribbble.com设计师＋开发。
+
 Nico Hagenburger：http://www.hagenburger.net/  博客主要更新最新的web设计和开发的技术和应用趋势，html5＋css3。
+
 Derek Punsalan: http://5thirtyone.com/  网页设计师＋开发，个人网站还有同名很有名的网格系统的wp主题。
+
 Trent Walton：http://trentwalton.com/  他博客用的是FF Meta Serif字体。
+
 Gregory Cadars:http://gregorycadars.com/  法国人，平面＋字体排印＋网页设计师
+
 Mark Jardine: http://markjardine.com/  Tapbot设计师，视觉＋交互＋游戏设计师
+
 Darren Hoyt : http://darrenhoyt.com/ php上著名的图像截取插件Timthumb作者，Readability 第二版设计师。
+
 David Lanham: http://www.dlanham.com/  GUI设计师、插画师。iconfactory设计师，The Heist（app）首席设计师。
+
 robert hoekman, jr： http://rhjr.tumblr.com/ 著名的产品、交互设计师，Miskeeto的创始人，《瞬间之美》的作者 
 
 
