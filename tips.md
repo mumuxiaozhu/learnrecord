@@ -13,3 +13,6 @@ open("index.html",null,"fullscreen=yes");　　
  .demo1::selection{color:#fff;background:#ff5e2c;}
  .demo1::-moz-selection{color:#fff;background:#ff5e2c;}
  .demo1::-webkit-selection{color:#fff;background:#ff5e2c;}
+ 
+ 5.script标签的type如果不能识别，则浏览器不会解析script中的内容，但是不影响读写其中的代码。
+ -[js 高级程序设计 -473]
