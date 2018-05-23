@@ -50,6 +50,8 @@ webpack-dev-server使用的是http-proxy-middleware
 
 
 [javascript模块化之CommonJS、AMD、CMD、UMD、ES6](https://blog.csdn.net/Real_Bird/article/details/54869066)
+
+[AMD 和 CMD 的区别有哪些？](https://www.zhihu.com/question/20351507) 与 RequireJS 的异同https://github.com/seajs/seajs/issues/277  CMD 模块定义规范 https://github.com/seajs/seajs/issues/242 
 [ConcurrentHashMap原理分析](https://my.oschina.net/hosee/blog/639352)
 [requireJS原理解析](https://blog.csdn.net/cde7070/article/details/65935888)
 [理解requireJS-实现一个简单的模块加载器](https://www.cnblogs.com/yexiaochai/p/3961291.html)
