@@ -13,6 +13,9 @@ sourcemap 调试
 jsp springmvc流程 jsp怎么加载解析，jsp标签
 
 ## 待看
+[如何解构单体前端应用——前端应用的微服务式拆分](https://github.com/phodal/articles/issues/49)
+[前端模块化开发那点历史-模块化相关](https://github.com/seajs/seajs/issues/588)
+
 [“瀑布流式”图片懒加载代码解析及优化(二](https://div.io/topic/1594)
 [芋道源码 —— 纯源码解析博客](http://www.iocoder.cn/categories/Sharding-JDBC/?cnblog)
 
