@@ -13,8 +13,10 @@ sourcemap 调试
 jsp springmvc流程 jsp怎么加载解析，jsp标签
 
 ## 待看
+[前端性能优化の备忘录（2018版）](https://w3ctech.com/topic/2089)
 [如何解构单体前端应用——前端应用的微服务式拆分](https://github.com/phodal/articles/issues/49)
 [前端模块化开发那点历史-模块化相关](https://github.com/seajs/seajs/issues/588)
+[2018 前端性能优化清单](http://cherryblog.site/front-end-performance-checklist-2018.html#more)
 
 [“瀑布流式”图片懒加载代码解析及优化(二](https://div.io/topic/1594)
 [芋道源码 —— 纯源码解析博客](http://www.iocoder.cn/categories/Sharding-JDBC/?cnblog)
@@ -43,6 +45,7 @@ jsp springmvc流程 jsp怎么加载解析，jsp标签
 [前端工程与性能优化](https://github.com/fouber/blog/issues/3)
 [前端工程与模块化框架](https://github.com/fouber/blog/issues/4)
 [前端工程——基础篇](https://github.com/fouber/blog/issues/10)
+[Responsive Web Design -float-percent](http://alistapart.com/article/responsive-web-design)
 
 [WebService入门详解](https://blog.csdn.net/qq32933432/article/details/51394749)
 [webpack-dev-server 设置反向代理解决跨域问题](https://www.cnblogs.com/liuchuanfeng/p/6802598.html)
