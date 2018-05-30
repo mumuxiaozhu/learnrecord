@@ -6,3 +6,4 @@
 
 
 [http-rfc](https://tools.ietf.org/html/rfc7232#section-6)
+[ttp协议请求响应头中参数的疑问？？](https://www.zhihu.com/question/22073045)
