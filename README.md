@@ -19,7 +19,6 @@ jsp springmvc流程 jsp怎么加载解析，jsp标签
 [如何解构单体前端应用——前端应用的微服务式拆分](https://github.com/phodal/articles/issues/49)
 [前端模块化开发那点历史-模块化相关](https://github.com/seajs/seajs/issues/588)
 [2018 前端性能优化清单](http://cherryblog.site/front-end-performance-checklist-2018.html#more)
-[重排重绘，](https://juejin.im/entry/582f16fca22b9d006b7afd89)
 
 
 [“瀑布流式”图片懒加载代码解析及优化(二](https://div.io/topic/1594)
@@ -46,6 +45,11 @@ jsp springmvc流程 jsp怎么加载解析，jsp标签
 [yangbo5207  前端基础](https://yangbo5207.github.io/wutongluo/ji-chu-jin-jie-xi-lie.html)
 [_.debounce源码学习](https://github.com/wolfdu/blog-gitment/issues/18)
 ## 5月
+
+[重排重绘，](https://juejin.im/entry/582f16fca22b9d006b7afd89)
+[Rendering: repaint, reflow/relayout, restyle](http://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
+[初始包含块](https://www.w3.org/TR/CSS21/visudet.html#containing-block-details)
+
 [前端工程与性能优化](https://github.com/fouber/blog/issues/3)
 [前端工程与模块化框架](https://github.com/fouber/blog/issues/4)
 [前端工程——基础篇](https://github.com/fouber/blog/issues/10)
