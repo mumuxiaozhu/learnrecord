@@ -170,6 +170,8 @@ webpack-dev-server使用的是http-proxy-middleware
 
 [你了解前端路由吗](https://juejin.im/post/5ac61da66fb9a028c71eae1b)
 
+[关于vue-router那些事](https://juejin.im/post/5b0281b851882542845257e7)
+
 ## 前端模板解析
 [模板解析](https://github.com/xucz/jst-helloworld/blob/master/fis-conf.js)
 [kTemplate模板](https://github.com/wulijian/ktemplate/blob/master/lib/kTemplate.js)
