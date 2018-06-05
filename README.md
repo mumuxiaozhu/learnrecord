@@ -15,6 +15,9 @@ jsp springmvc流程 jsp怎么加载解析，jsp标签
 [front-end.md](https://github.com/xitu/gold-miner/blob/master/front-end.md)
 
 ## 待看
+
+[Understanding the Event Loop](https://stackoverflow.com/questions/21607692/understanding-the-event-loop)
+
 [前端性能优化の备忘录（2018版）](https://w3ctech.com/topic/2089)
 [如何解构单体前端应用——前端应用的微服务式拆分](https://github.com/phodal/articles/issues/49)
 [前端模块化开发那点历史-模块化相关](https://github.com/seajs/seajs/issues/588)
@@ -46,6 +49,9 @@ jsp springmvc流程 jsp怎么加载解析，jsp标签
 [_.debounce源码学习](https://github.com/wolfdu/blog-gitment/issues/18)
 
 ## 6月
+[JS中的异步以及事件轮询机制](http://www.cnblogs.com/heshan1992/p/6650593.html)
+[JavaScript 运行机制详解：再谈Event Loop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
+[深入理解 JavaScript 异步](https://github.com/wangfupeng1988/js-async-tutorial)
 
 [js-EventLoop](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/EventLoop)
 [维护了这么久的服务器，你真的认识 Web 缓存体系？](http://www.sohu.com/a/190533033_262549)
