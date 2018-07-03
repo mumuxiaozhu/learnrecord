@@ -1,3 +1,9 @@
+
+
+5.伪元素用法
+[你所不知的 CSS ::before 和 ::after 伪元素用法](https://www.cnblogs.com/yuqingfamily/p/5928874.html)
+[CreativeLinkEffects-酷炫页面效果](https://tympanus.net/Development/CreativeLinkEffects/#cl-effect-2)
+
 1.[CSS grid](https://www.smashingmagazine.com/2018/05/future-of-web-design/)
 ```css
 .grid {
