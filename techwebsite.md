@@ -64,7 +64,7 @@ Design Blogs https://www.quora.com/topic/Design-Blogs-3
 以上收集于知乎：https://www.zhihu.com/question/19570317
 
 
-
+Internet Message Format(Standard for the Format of ARPA Internet Text Messages): https://tools.ietf.org/html/rfc2822#page-14
 W3help：http://www.w3help.org/zh-cn/causes/BT9027
 
 msdn ： https://msdn.microsoft.com/zh-cn/library/ms531079(v=vs.85).aspx
