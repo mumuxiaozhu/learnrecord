@@ -9,7 +9,8 @@
 
 你见过的最棒的个人博客界面是什么样的？https://www.zhihu.com/question/29755481
 
-
+vue例子：
+https://github.com/Neveryu/vue-music
 
 交互设计方向
 http://wireframes.linowski.ca/#主要是原型设计
