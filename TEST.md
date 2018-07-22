@@ -7,3 +7,7 @@ ABtest一个总的目的和意图是，判断哪种种UI或rerank策略更优，
 
 [A/B](https://blog.csdn.net/Weiguang_123/article/details/49203239)
 [什么是 A/B 测试？](https://www.zhihu.com/question/20045543)
+2.ab性能测试
+ab即Apache Benchmark,
+Mac下自带apache
+查看版本 apachectl -v
