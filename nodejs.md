@@ -14,3 +14,5 @@
 
 [Nodejs源码分析之Path](https://blog.csdn.net/leoleocs/article/details/50502276)
 
+[《Node.js：来一打 C++ 扩展》](https://cnodejs.org/topic/5b223c1d5cd02be640901490)
+
