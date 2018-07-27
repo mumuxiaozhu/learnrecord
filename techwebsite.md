@@ -3,6 +3,8 @@
 1
 [smashing杂志](https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/)
 
+[设计师网址导航－各类设计优秀实践等](http://hao.uisdc.com/)
+
 搜罗国外优秀设计师、前端开发工程师、互联网作家：http://www.ilikecss.com/author/
 
 国外优秀设计师的博客有哪些？：https://www.zhihu.com/question/19570317
