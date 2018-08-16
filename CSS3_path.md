@@ -1,4 +1,10 @@
+6.line-height和vertical-align
 
+font-size:0, 因此此时content area高度是0，各种乱七八糟的线都在高度为0的这条线上，绝对中心线和中线重合。自然全垂直居中.
+line-height:0解决垂直间隙问题.
+
+字符实际占据的高度是由行高决定的，当行高变成0的时候，字符占据的高度也是0，此时，高度的起始位置就变成了字符content area的垂直中心位置，于是，文字就一半落在看看2的外面了。
+[line-height和vertical-align相互关系](https://www.zhangxinxu.com/wordpress/2015/08/css-deep-understand-vertical-align-and-line-height/)
 
 5.伪元素用法
 [你所不知的 CSS ::before 和 ::after 伪元素用法](https://www.cnblogs.com/yuqingfamily/p/5928874.html)
