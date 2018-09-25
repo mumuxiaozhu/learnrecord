@@ -146,7 +146,7 @@ doyoe博客：http://blog.doyoe.com/2015/10/20/mobile/%E7%A7%BB%E5%8A%A8%E5%89%8
 
 Jason Orendorff（有ES6系列）:https://hacks.mozilla.org/author/jorendorffmozillacom/
 
- 
+ import.io不光是一个爬网页的平台，它还提供存储，搜索（是的...）等服务。 https://www.import.io/blog/
 
 深入理解JavaScript系列：http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html
 
