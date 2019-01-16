@@ -1,10 +1,14 @@
 ## 1.交互式、响应开发
 
-[图片叠加分割](http://stickerride.com/)
+[交互式图片对比控件](http://stickerride.com/)
 
 [waves波动式移动端组件库](http://fian.my.id/Waves/#start)
 
 [loading动画](https://loading.io)
+
+[lottiefiles各类svg动画](https://www.lottiefiles.com/?page=7)
+
+[ant.design](https://ant.design/docs/react/recommendation-cn)
 
 ## 2.组件库
 
