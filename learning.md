@@ -1,4 +1,4 @@
-##1.交互式、响应开发
+## 1.交互式、响应开发
 
 [图片叠加分割](http://stickerride.com/)
 
@@ -6,7 +6,7 @@
 
 [loading动画](https://loading.io)
 
-##2.组件库
+## 2.组件库
 
 小程序：
 
@@ -18,11 +18,11 @@
 
 [wux-weapp](https://github.com/wux-weapp/wux-weapp)
 
-3.canvas
+## 3.canvas
 
 [html5canvastutorials](https://www.html5canvastutorials.com/advanced/html5-canvas-custom-transform/)
 
-2.开发工具
+## 4.开发工具
 [git学习工具](https://learngitbranching.js.org/)
 
 
