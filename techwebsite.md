@@ -1,5 +1,10 @@
 
+组件库
+1.vue组件库Quasar 
+移动端？
+[Quasar应用程序由称为组件的高级构建块组成。 组件允许您快速构建应用程序的界面。 Quasar带有许多组件，包括模态框，操作表，可折叠项，卡片，对话框，FAB，列表等等。](http://www.quasarchs.com/components/)
 
+2.
 
 
 js技术
