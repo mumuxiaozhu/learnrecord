@@ -1,11 +1,12 @@
-1.交互式、响应开发
+##1.交互式、响应开发
+
 [图片叠加分割](http://stickerride.com/)
 
 [waves波动式移动端组件库](http://fian.my.id/Waves/#start)
 
 [loading动画](https://loading.io)
 
-2.组件库
+##2.组件库
 
 小程序：
 
