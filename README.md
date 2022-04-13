@@ -48,6 +48,9 @@ jsp springmvc流程 jsp怎么加载解析，jsp标签
 [yangbo5207  前端基础](https://yangbo5207.github.io/wutongluo/ji-chu-jin-jie-xi-lie.html)
 [_.debounce源码学习](https://github.com/wolfdu/blog-gitment/issues/18)
 
+## 2022.4.13
+[microtask 队列与 async/await 源码分析](https://zhuanlan.zhihu.com/p/134647506)
+
 ## 7月
 [JavaScript 深拷贝性能分析](http://justjavac.com/javascript/2018/02/02/deep-copy.html)
 [Deep-copying in JavaScript](https://dassur.ma/things/deep-copy/)
