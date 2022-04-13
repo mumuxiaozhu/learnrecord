@@ -16,6 +16,7 @@ jsp springmvc流程 jsp怎么加载解析，jsp标签
 
 ## 待看
 [Chromium setTimeout/clearTimeout 源码分析](https://zhuanlan.zhihu.com/p/443997010)
+
 [Promise V8 源码分析(一)](https://zhuanlan.zhihu.com/p/264944183)
 
 [Understanding the Event Loop](https://stackoverflow.com/questions/21607692/understanding-the-event-loop)
@@ -52,7 +53,10 @@ jsp springmvc流程 jsp怎么加载解析，jsp标签
 
 ## 2022.4.13
 [microtask 队列与 async/await 源码分析](https://zhuanlan.zhihu.com/p/134647506)
+
 [v8源码-任务与microtask 队列关系](https://chromium.googlesource.com/chromium/src/+/refs/tags/91.0.4437.3/base/task/sequence_manager/thread_controller_with_message_pump_impl.cc#354)
+
+[process.nextTick > promise.then源码](https://github.com/nodejs/node/blob/af46112828cb28223050597f06b5e45a659e99d6/src/node.js#L541)
 
 ## 7月
 [JavaScript 深拷贝性能分析](http://justjavac.com/javascript/2018/02/02/deep-copy.html)
