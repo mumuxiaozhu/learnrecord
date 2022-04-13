@@ -15,6 +15,8 @@ jsp springmvc流程 jsp怎么加载解析，jsp标签
 [front-end.md](https://github.com/xitu/gold-miner/blob/master/front-end.md)
 
 ## 待看
+[Chromium setTimeout/clearTimeout 源码分析](https://zhuanlan.zhihu.com/p/443997010)
+[Promise V8 源码分析(一)](https://zhuanlan.zhihu.com/p/264944183)
 
 [Understanding the Event Loop](https://stackoverflow.com/questions/21607692/understanding-the-event-loop)
 
